@@ -1,0 +1,5 @@
+{
+  "name": "ItalianTV",
+  "description": "Un aggregatore intelligente di canali TV italiani in streaming. Guarda le dirette disponibili o usa l'assistente AI per scoprire cosa guardare basato sui tuoi interessi.",
+  "requestFramePermissions": []
+}
